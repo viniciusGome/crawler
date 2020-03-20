@@ -1,0 +1,12 @@
+{
+    "name": "viniciusgome/crawler",
+    "description": "Projeto que faz buscas na internet",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vinicius Gomes",
+            "email": "gomesvinicius08@gmail.com"
+        }
+    ],
+    "require": {}
+}
